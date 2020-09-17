@@ -14,7 +14,7 @@ Hello World, куда без него?
 ![3](images/3.png)
 
 ![3_2](images/3_2.png)
-## 4. [Последовательности Фибоначчи](https://github.com/deltareticuli/assembler_hw/blob/master/task_01/4_fibonacci/fibonacci.asm)
+## 4. [Последовательность Фибоначчи](https://github.com/deltareticuli/assembler_hw/blob/master/task_01/4_fibonacci/fibonacci.asm)
 Вывод последовательности Фибоначчи заданной длины.
 
 ![4](images/4.png)
