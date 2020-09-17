@@ -21,7 +21,7 @@ Hello World, куда без него?
 
 ![4_2](images/4_2.png)
 ## 5. [Факториал](https://github.com/deltareticuli/assembler_hw/blob/master/task_01/5_factorial/factorial.asm)
-Вычисление факториала введенного числа.
+Вычисление факториала заданного числа.
 
 ![5](images/5.png)
 
